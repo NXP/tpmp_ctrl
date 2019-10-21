@@ -1,0 +1,1 @@
+/unit_tests/Power_Management/suspend_quick_auto.sh
